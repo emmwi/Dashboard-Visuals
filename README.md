@@ -19,4 +19,6 @@ For this project västtrafiks API was used to fetch timetables as well as the we
 <img width="1010" alt="Skärmavbild 2025-06-09 kl  21 29 13" src="/assets/Skärmavbild 2025-06-09 kl. 21.29.13.png" />
 <img width="1009" alt="Skärmavbild 2025-06-09 kl  21 29 27" src="/assets/Skärmavbild 2025-06-09 kl. 21.29.27.png" />
 
-![Dashboard-ezgif com-video-to-gif-converter(3)](https://github.com/user-attachments/assets/22ad2bc7-3a3f-499a-b24f-de15abebaf02)
+<video controls width="250">
+  <source src="/assets/Dashboard-lg.mp4" type="video/mp4" />
+</video>
